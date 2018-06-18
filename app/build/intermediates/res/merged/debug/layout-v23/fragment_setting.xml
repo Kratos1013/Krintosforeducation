@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krintos.krintos.activity.Setting">
+
+    <!-- TODO: Update blank fragment layout -->
+   <LinearLayout
+       android:layout_marginTop="@dimen/frame_after_toolbar"
+       android:layout_gravity="bottom"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       tools:ignore="UselessParent">
+       <TextView
+           android:textAlignment="center"
+           android:textSize="@dimen/app_name_on_about"
+           android:layout_gravity="center"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="@string/setting" />
+
+
+   </LinearLayout>
+
+</FrameLayout>

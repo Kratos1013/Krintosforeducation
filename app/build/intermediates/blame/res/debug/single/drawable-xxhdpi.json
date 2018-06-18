@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_devices_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_devices_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_ethernet_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_settings_ethernet_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplay_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_airplay_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_opacity_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_opacity_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_multiline_chart_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_multiline_chart_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_check_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_check_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_edit_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/demidovich.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/demidovich.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photo_camera_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_keyboard_return_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_keyboard_return_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_priority_high_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_priority_high_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_whatshot_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_whatshot_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_person_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_functions_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_functions_black_24dp.png"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_balance_black_24dp.png",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/drawable-xxhdpi/ic_account_balance_black_24dp.png"
+    }
+]

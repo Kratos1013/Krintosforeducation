@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

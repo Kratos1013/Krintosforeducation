@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /root/.android/build-cache/9e4739789dffc46e1c8b2dbf219dd28939601a67/output/AndroidManifest.xml:3:5-72
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/418941ea2d8e61a3304a0dc9e6c2e241b1944023/output/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /root/.android/build-cache/a025f88fda7e2a19372c5d00730ff6c9fe3a7a92/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:24.2.1] /root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /root/.android/build-cache/c385ce9a784d4ff6f096d2d642c40c585a583520/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.android/build-cache/032bc69e77c735d56d4c873f2312f46fa451e2ff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.android/build-cache/29345d4407961d23a6afaf06fc204e95284cb499/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.android/build-cache/7e4a7f174bb9d8882eccbadefcd6a738b94964b2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.android/build-cache/83cca9444b72558a23b1f381f37e9d691cb00df2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.android/build-cache/487984071a5847ee38749d843bee64bbdbffe3ac/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /root/.android/build-cache/7b2a7c234f282e7ae5c98e3de848fd9b51b0dc34/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.android/build-cache/f1b00bf92efc3c05783f3b8e7d11341544a35685/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /root/.android/build-cache/18153bd6061736216339712c98b9d3d3242bddfc/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.camera2
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:13:5-100
+	android:required
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:13:59-84
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:13:19-58
+uses-permission#android.permission.CAMERA
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:15:5-96
+MERGED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:17:5-97
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:18:5-95
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:19:5-91
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:19:22-72
+application
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:22:5-48:19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /root/.android/build-cache/9e4739789dffc46e1c8b2dbf219dd28939601a67/output/AndroidManifest.xml:5:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/418941ea2d8e61a3304a0dc9e6c2e241b1944023/output/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /root/.android/build-cache/a025f88fda7e2a19372c5d00730ff6c9fe3a7a92/output/AndroidManifest.xml:9:5-20
+MERGED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:13:5-20:19
+MERGED from [com.android.support:design:24.2.1] /root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /root/.android/build-cache/c385ce9a784d4ff6f096d2d642c40c585a583520/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.android/build-cache/032bc69e77c735d56d4c873f2312f46fa451e2ff/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.android/build-cache/29345d4407961d23a6afaf06fc204e95284cb499/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.android/build-cache/7e4a7f174bb9d8882eccbadefcd6a738b94964b2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.android/build-cache/83cca9444b72558a23b1f381f37e9d691cb00df2/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.android/build-cache/487984071a5847ee38749d843bee64bbdbffe3ac/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.android/build-cache/f1b00bf92efc3c05783f3b8e7d11341544a35685/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /root/.android/build-cache/18153bd6061736216339712c98b9d3d3242bddfc/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:26:9-41
+	android:supportsRtl
+		ADDED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:23:9-61
+activity#com.krintos.krintos.activity.LoginActivity
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:31:13-43
+	android:windowSoftInputMode
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:29:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.krintos.krintos.activity.RegisterActivity
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:39:9-43:55
+	android:label
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:41:13-45
+	android:launchMode
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:42:13-43
+	android:windowSoftInputMode
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:40:13-73
+activity#com.krintos.krintos.activity.MainActivity
+ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:44:9-47:46
+	android:label
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:46:13-45
+	android:launchMode
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from /root/Project_X/android/best/Krintos/app/src/main/AndroidManifest.xml:45:13-69
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:16:9-19:20
+	android:theme
+		ADDED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.09] /root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/AndroidManifest.xml:17:13-77

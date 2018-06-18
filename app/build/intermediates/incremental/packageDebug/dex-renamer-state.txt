@@ -1,0 +1,7 @@
+#Wed Sep 06 18:53:13 MSK 2017
+base.0=/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cc7a8b908c70f5efa25ab0c0160de3807a079638
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e964c018fc0243d2a1c1e76770bb9c05c3e6ae0/classes.dex
+base.1=/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e964c018fc0243d2a1c1e76770bb9c05c3e6ae0
+file.0=/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cc7a8b908c70f5efa25ab0c0160de3807a079638/classes.dex

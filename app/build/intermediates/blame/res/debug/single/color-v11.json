@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/menu/navigation_menu.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/menu/main.xml"
+    }
+]

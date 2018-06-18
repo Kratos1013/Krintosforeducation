@@ -1,0 +1,538 @@
+<!--<FrameLayout android:id="@+id/fragment_math"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krintos.krintos.activity.Math"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+</FrameLayout>-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.krintos.krintos.activity.Physics">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <TabHost
+            android:id="@+id/tabHost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/menu_button"></TabWidget>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ScrollView
+                        android:id="@+id/LIBRARY"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        tools:background="@color/btn_login_bg">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="@string/official_books"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/btn_login"
+                                android:padding="5dp"
+                                />
+                            <View style="@style/Divider"
+                                android:layout_height="2dp"/>
+                            <RelativeLayout
+                                android:id="@+id/books"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_margin="5dp"
+                                android:background="@color/books_rel_color">
+
+                                <ImageView
+                                    android:id="@+id/bookimage"
+                                    android:layout_width="70dp"
+                                    android:layout_height="100dp"
+                                    android:layout_margin="7dp"
+                                    android:contentDescription="@string/book_informations"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/irodov" />
+
+                                <TextView
+                                    android:id="@+id/dem_book_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="100dp"
+                                    android:layout_marginTop="10dp"
+                                    android:text="I.E.Irodov"
+                                    android:textAllCaps="true"
+                                    android:textColor="@color/nav_title_color"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_download"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_marginRight="7dp"
+                                    app:srcCompat="@drawable/ic_cloud_download_black_24dp"
+                                    android:layout_alignBottom="@+id/bookimage"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:clickable="true"
+                                    android:visibility="gone"
+                                    android:layout_marginEnd="7dp"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_open"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignBottom="@+id/bookimage"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_marginEnd="7dp"
+                                    android:layout_marginRight="7dp"
+                                    android:visibility="gone"
+                                    android:clickable="true"
+                                    app:srcCompat="@drawable/ic_import_contacts_black_24dp" />
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/stars"
+                                    android:layout_width="40dp"
+                                    android:layout_height="40dp"
+                                    app:srcCompat="@drawable/ic_star_border_notchecked_24dp"
+                                    android:layout_alignTop="@+id/dem_book_name"
+                                    android:layout_alignRight="@+id/dem_book_open"
+                                    android:layout_alignEnd="@+id/dem_book_open"
+                                    android:visibility="gone"
+                                    />
+
+                                <ProgressBar
+                                    android:id="@+id/downloadprogressBar"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="7dp"
+                                    android:layout_alignBottom="@+id/bookimage"
+                                    android:layout_toRightOf="@+id/bookimage"
+                                    android:layout_toLeftOf="@+id/dem_book_download"
+                                    android:layout_toStartOf="@+id/dem_book_download"
+                                    android:layout_marginRight="7dp"
+                                    android:progressDrawable="@drawable/greenprogress"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/downloaded"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignTop="@+id/dem_book_open"
+                                    android:layout_toEndOf="@+id/bookimage"
+                                    android:layout_toRightOf="@+id/bookimage"
+                                    android:layout_marginLeft="15dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/textView5"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="по общей физике"
+                                    android:layout_below="@+id/dem_book_name"
+                                    android:layout_alignLeft="@+id/dem_book_name"
+                                    android:layout_alignStart="@+id/dem_book_name" />
+
+
+                            </RelativeLayout>
+                            <RelativeLayout
+                                android:id="@+id/books1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_margin="5dp"
+                                android:background="@color/books_rel_color">
+
+                                <ImageView
+                                    android:id="@+id/bookimage1"
+                                    android:layout_width="70dp"
+                                    android:layout_height="100dp"
+                                    android:layout_margin="7dp"
+                                    android:contentDescription="@string/book_informations"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/ielectricity" />
+
+                                <TextView
+                                    android:id="@+id/dem_book_name1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="100dp"
+                                    android:layout_marginTop="10dp"
+                                    android:text="I.E.Irodov"
+                                    android:textAllCaps="true"
+                                    android:textColor="@color/nav_title_color"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_download1"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_marginRight="7dp"
+                                    app:srcCompat="@drawable/ic_cloud_download_black_24dp"
+                                    android:layout_alignBottom="@+id/bookimage1"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:clickable="true"
+                                    android:visibility="gone"
+                                    android:layout_marginEnd="7dp"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_open1"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignBottom="@+id/bookimage1"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_marginEnd="7dp"
+                                    android:layout_marginRight="7dp"
+                                    android:visibility="gone"
+                                    android:clickable="true"
+                                    app:srcCompat="@drawable/ic_import_contacts_black_24dp" />
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/stars1"
+                                    android:layout_width="40dp"
+                                    android:layout_height="40dp"
+                                    app:srcCompat="@drawable/ic_star_border_notchecked_24dp"
+                                    android:layout_alignTop="@+id/dem_book_name1"
+                                    android:layout_alignRight="@+id/dem_book_open1"
+                                    android:layout_alignEnd="@+id/dem_book_open1"
+                                    android:visibility="gone"
+
+                                    />
+
+                                <ProgressBar
+                                    android:id="@+id/downloadprogressBar1"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="7dp"
+                                    android:layout_alignBottom="@+id/bookimage1"
+                                    android:layout_toRightOf="@+id/bookimage1"
+                                    android:layout_toLeftOf="@+id/dem_book_download1"
+                                    android:layout_toStartOf="@+id/dem_book_download1"
+                                    android:layout_marginRight="7dp"
+                                    android:progressDrawable="@drawable/greenprogress"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/downloaded1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignTop="@+id/dem_book_open1"
+                                    android:layout_toEndOf="@+id/bookimage1"
+                                    android:layout_toRightOf="@+id/bookimage1"
+                                    android:layout_marginLeft="15dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/textView6"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Электромагнетизм"
+                                    android:layout_below="@+id/dem_book_name1"
+                                    android:layout_alignLeft="@+id/dem_book_name1"
+                                    android:layout_alignStart="@+id/dem_book_name1" />
+
+
+                            </RelativeLayout>
+                            <RelativeLayout
+                                android:id="@+id/books2"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_margin="5dp"
+                                android:background="@color/books_rel_color">
+
+                                <ImageView
+                                    android:id="@+id/bookimage2"
+                                    android:layout_width="70dp"
+                                    android:layout_height="100dp"
+                                    android:layout_margin="7dp"
+                                    android:contentDescription="@string/book_informations"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/irodovmechanics" />
+
+                                <TextView
+                                    android:id="@+id/dem_book_name2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="100dp"
+                                    android:layout_marginTop="10dp"
+                                    android:text="I.E.Irodov"
+                                    android:textAllCaps="true"
+                                    android:textColor="@color/nav_title_color"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_download2"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_marginRight="7dp"
+                                    app:srcCompat="@drawable/ic_cloud_download_black_24dp"
+                                    android:layout_alignBottom="@+id/bookimage2"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:clickable="true"
+                                    android:visibility="gone"
+                                    android:layout_marginEnd="7dp"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_open2"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignBottom="@+id/bookimage2"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_marginEnd="7dp"
+                                    android:layout_marginRight="7dp"
+                                    android:visibility="gone"
+                                    android:clickable="true"
+                                    app:srcCompat="@drawable/ic_import_contacts_black_24dp" />
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/stars2"
+                                    android:layout_width="40dp"
+                                    android:layout_height="40dp"
+                                    app:srcCompat="@drawable/ic_star_border_notchecked_24dp"
+                                    android:layout_alignTop="@+id/dem_book_name2"
+                                    android:layout_alignRight="@+id/dem_book_open2"
+                                    android:layout_alignEnd="@+id/dem_book_open2"
+                                    android:visibility="gone"
+
+                                    />
+
+                                <ProgressBar
+                                    android:id="@+id/downloadprogressBar2"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="7dp"
+                                    android:layout_alignBottom="@+id/bookimage2"
+                                    android:layout_toRightOf="@+id/bookimage2"
+                                    android:layout_toLeftOf="@+id/dem_book_download2"
+                                    android:layout_toStartOf="@+id/dem_book_download2"
+                                    android:layout_marginRight="7dp"
+                                    android:progressDrawable="@drawable/greenprogress"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/downloaded2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignTop="@+id/dem_book_open2"
+                                    android:layout_toEndOf="@+id/bookimage2"
+                                    android:layout_toRightOf="@+id/bookimage2"
+                                    android:layout_marginLeft="15dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/textView7"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Механика"
+                                    android:layout_below="@+id/dem_book_name2"
+                                    android:layout_alignLeft="@+id/dem_book_name2"
+                                    android:layout_alignStart="@+id/dem_book_name2" />
+
+
+                            </RelativeLayout>
+                            <RelativeLayout
+                                android:id="@+id/books3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_margin="5dp"
+                                android:background="@color/books_rel_color">
+
+                                <ImageView
+                                    android:id="@+id/bookimage3"
+                                    android:layout_width="70dp"
+                                    android:layout_height="100dp"
+                                    android:layout_margin="7dp"
+                                    android:contentDescription="@string/book_informations"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/irodovquantum" />
+
+                                <TextView
+                                    android:id="@+id/dem_book_name3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="100dp"
+                                    android:layout_marginTop="10dp"
+                                    android:text="I.E.Irodov"
+                                    android:textAllCaps="true"
+                                    android:textColor="@color/nav_title_color"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_download3"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_marginRight="7dp"
+                                    app:srcCompat="@drawable/ic_cloud_download_black_24dp"
+                                    android:layout_alignBottom="@+id/bookimage3"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:clickable="true"
+                                    android:visibility="gone"
+                                    android:layout_marginEnd="7dp"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/dem_book_open3"
+                                    android:layout_width="40dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignBottom="@+id/bookimage3"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_marginEnd="7dp"
+                                    android:layout_marginRight="7dp"
+                                    android:visibility="gone"
+                                    android:clickable="true"
+                                    app:srcCompat="@drawable/ic_import_contacts_black_24dp" />
+                                <android.support.v7.widget.AppCompatImageView
+                                    android:id="@+id/stars3"
+                                    android:layout_width="40dp"
+                                    android:layout_height="40dp"
+                                    app:srcCompat="@drawable/ic_star_border_notchecked_24dp"
+                                    android:layout_alignTop="@+id/dem_book_name3"
+                                    android:layout_alignRight="@+id/dem_book_open3"
+                                    android:layout_alignEnd="@+id/dem_book_open3"
+                                    android:visibility="gone"
+
+                                    />
+
+                                <ProgressBar
+                                    android:id="@+id/downloadprogressBar3"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="7dp"
+                                    android:layout_alignBottom="@+id/bookimage3"
+                                    android:layout_toRightOf="@+id/bookimage3"
+                                    android:layout_toLeftOf="@+id/dem_book_download3"
+                                    android:layout_toStartOf="@+id/dem_book_download3"
+                                    android:layout_marginRight="7dp"
+                                    android:progressDrawable="@drawable/greenprogress"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:id="@+id/downloaded3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignTop="@+id/dem_book_open3"
+                                    android:layout_toEndOf="@+id/bookimage3"
+                                    android:layout_toRightOf="@+id/bookimage3"
+                                    android:layout_marginLeft="15dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone"
+                                    tools:ignore="RtlHardcoded" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Квантовая физика"
+                                    android:layout_below="@+id/dem_book_name3"
+                                    android:layout_alignLeft="@+id/dem_book_name3"
+                                    android:layout_alignStart="@+id/dem_book_name3" />
+
+
+                            </RelativeLayout>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="@string/user_uploads"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/btn_login"
+                                android:padding="5dp"
+                                />
+                            <View style="@style/Divider"
+                                android:layout_height="2dp"/>
+                            <android.support.v7.widget.RecyclerView
+                                android:layout_marginLeft="7dp"
+                                android:layout_marginRight="7dp"
+                                android:scrollbars="vertical"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                            </android.support.v7.widget.RecyclerView>
+                            <android.support.design.widget.FloatingActionButton
+                                app:srcCompat="@drawable/ic_file_upload_black_24dp"
+                                android:layout_marginTop="15dp"
+                                android:layout_gravity="center"
+                                android:id="@+id/user_upload"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                        </LinearLayout>
+
+
+                    </ScrollView>
+
+                    <ScrollView
+                        android:id="@+id/SOLUTIONS"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#da8200"
+                        android:orientation="vertical">
+
+                    </ScrollView>
+
+                    <ScrollView
+                        android:id="@+id/INDEX"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#5b89ff"
+                        android:orientation="vertical">
+
+                    </ScrollView>
+                </FrameLayout>
+            </LinearLayout>
+        </TabHost>
+    </LinearLayout>
+</FrameLayout>

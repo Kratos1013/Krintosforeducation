@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_main_fragment.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_main_fragment.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/activity_register.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/activity_register.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_about.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_about.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_setting.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_setting.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_my_account.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_my_account.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_biology.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_biology.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/contant_main.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/contant_main.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_physics.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_physics.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_math.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_math.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_chemistry.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_chemistry.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/activity_main.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/activity_main.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_prog_activity.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_prog_activity.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_philology.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_philology.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/nav_header.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/nav_header.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/fragment_edit_profile.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/activity_login.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/activity_login.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout-v24/nav_action_bar.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout-v24/nav_action_bar.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim/design_snackbar_out.xml"
+    }
+]

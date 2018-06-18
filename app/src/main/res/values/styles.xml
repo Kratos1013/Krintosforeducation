@@ -1,0 +1,45 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:actionBarStyle">@style/myactionbar</item>
+
+    </style>
+    <style name="myactionbar">
+        <item name="android:background">#00cdbc</item>
+    </style>
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+
+
+    <!-- Application theme. -->
+    <style name="AppBaseTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/myactionbar</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+
+    <style name="Divider">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/nav_item_color</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_gravity">center</item>
+
+    </style>
+    <style name="Devider_ver">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:background">@color/nav_item_color</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+
+</resources>

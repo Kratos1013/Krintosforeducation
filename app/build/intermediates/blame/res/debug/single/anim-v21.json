@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

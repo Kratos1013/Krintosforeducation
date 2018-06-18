@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Krintos</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login now. </string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="nav_account">My account</string>
+    <string name="nav_prog">Programming</string>
+    <string name="nav_math">Mathematics</string>
+    <string name="nav_phys">Physics</string>
+    <string name="nav_chem">Chemistry</string>
+    <string name="nav_bio">Biology</string>
+    <string name="nav_phil">Philology</string>
+    <string name="nav_set">Settings</string>
+    <string name="nav_ab">About</string>
+    <string name="nav_log">Log out</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_account">My Account</string>
+
+    <!--   For TABS -->
+    <string name="p_p_upload">upload</string>
+    <string name="tab_news">News</string>
+    <string name="profile">Profile</string>
+    <string name="ver">Version 1.0.1</string>
+    <string name="about_full">by: Kratos \nwww.vk.com/kratos_kratos\ndesigner: Leader\nwww.vk.com/gubaydullina97</string>
+    <string name="upload">upload_button</string>
+    <string name="info">Info</string>
+    <string name="username">Username</string>
+
+    <string name="email_info">Email</string>
+    <string name="university">University</string>
+    <string name="phone">Phone</string>
+    <string name="not_edited">not edited</string>
+    <string name="institute">Institute</string>
+    <string name="faculty">Faculty</string>
+    <string name="about_me">About me</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="field_to_change_the_password">Field to change the password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="institute_hint">Institute</string>
+    <string name="faculty_hint">Faculty</string>
+    <string name="cancel">Cancel</string>
+    <string name="lastname">Lastname</string>
+    <string name="nname">Name</string>
+    <string name="setting">Setting</string>
+    <string name="imageview">imageview</string>
+    <string name="email_you_can_t_change_your_email"> Sorry, you are not able to change your Email address once you registered !</string>
+    <string name="sorry_phone">Sorry, you are not able to change your phone number once you registered!</string>
+    <string name="tap_change">Click on the image to choose new profile photo</string>
+    <string name="uupload">Upload</string>
+    <string name="index">INDEX</string>
+    <string name="solutions">SOLUTIONS</string>
+    <string name="library">LIBRARY</string>
+    <string name="book_informations">book informations</string>
+    <string name="official_books">Official Books</string>
+    <string name="user_uploads">User Uploads</string>
+    <string name="book_upload">UPLOAD</string>
+    <string name="official_solutions">Official solutions</string>
+    <string name="book">Book</string>
+    <string name="number">number</string>
+    <string name="question">Question</string>
+    <string name="exam_solutions">Exam Solutions</string>
+
+    <!-- FOR PROFILE ID'S -->
+
+
+</resources>

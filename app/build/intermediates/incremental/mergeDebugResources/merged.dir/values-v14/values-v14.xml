@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_main">#428bca</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="books_rel_color">#e8fffd</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="lbl_name">#333333</color>
+    <color name="menu_button">#d6e9e7</color>
+    <color name="nav_header">#00cdbc</color>
+    <color name="nav_item_color">#13876e</color>
+    <color name="nav_title_color">#13876e</color>
+    <color name="nav_view">#d3d6db</color>
+    <color name="profile_text_color">#00352a</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_name_on_about">50sp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="frame_after_toolbar">55dp</dimen>
+    <string name="about_full">by: Kratos \nwww.vk.com/kratos_kratos\ndesigner: Leader\nwww.vk.com/gubaydullina97</string>
+    <string name="about_me">About me</string>
+    <string name="app_name">Krintos</string>
+    <string name="book">Book</string>
+    <string name="book_informations">book informations</string>
+    <string name="book_upload">UPLOAD</string>
+    <string name="btn_link_to_login">Already registred! Login now. </string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="email_info">Email</string>
+    <string name="email_you_can_t_change_your_email"> Sorry, you are not able to change your Email address once you registered !</string>
+    <string name="exam_solutions">Exam Solutions</string>
+    <string name="faculty">Faculty</string>
+    <string name="faculty_hint">Faculty</string>
+    <string name="field_to_change_the_password">Field to change the password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_password">Password</string>
+    <string name="imageview">imageview</string>
+    <string name="index">INDEX</string>
+    <string name="info">Info</string>
+    <string name="institute">Institute</string>
+    <string name="institute_hint">Institute</string>
+    <string name="lastname">Lastname</string>
+    <string name="library">LIBRARY</string>
+    <string name="my_account">My Account</string>
+    <string name="name">Fullname</string>
+    <string name="nav_ab">About</string>
+    <string name="nav_account">My account</string>
+    <string name="nav_bio">Biology</string>
+    <string name="nav_chem">Chemistry</string>
+    <string name="nav_log">Log out</string>
+    <string name="nav_math">Mathematics</string>
+    <string name="nav_phil">Philology</string>
+    <string name="nav_phys">Physics</string>
+    <string name="nav_prog">Programming</string>
+    <string name="nav_set">Settings</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="nname">Name</string>
+    <string name="not_edited">not edited</string>
+    <string name="number">number</string>
+    <string name="official_books">Official Books</string>
+    <string name="official_solutions">Official solutions</string>
+    <string name="p_p_upload">upload</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="profile">Profile</string>
+    <string name="question">Question</string>
+    <string name="save">Save</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="setting">Setting</string>
+    <string name="solutions">SOLUTIONS</string>
+    <string name="sorry_phone">Sorry, you are not able to change your phone number once you registered!</string>
+    <string name="tab_news">News</string>
+    <string name="tap_change">Click on the image to choose new profile photo</string>
+    <string name="university">University</string>
+    <string name="upload">upload_button</string>
+    <string name="user_uploads">User Uploads</string>
+    <string name="username">Username</string>
+    <string name="uupload">Upload</string>
+    <string name="ver">Version 1.0.1</string>
+    <string name="welcome">Welcome</string>
+    <style name="AppBaseTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/myactionbar</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:actionBarStyle">@style/myactionbar</item>
+
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Devider_ver">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:background">@color/nav_item_color</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="Divider">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/nav_item_color</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_gravity">center</item>
+
+    </style>
+    <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
+    <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
+    <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.StatusBar.EventContent.Info"/>
+    <style name="TextAppearance.StatusBar.EventContent.Line2">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time"/>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="myactionbar">
+        <item name="android:background">#00cdbc</item>
+    </style>
+</resources>

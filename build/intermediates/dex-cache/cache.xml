@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f1b00bf92efc3c05783f3b8e7d11341544a35685/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_abb32493a948340d5e60aab07071d640d7e7d78e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/032bc69e77c735d56d4c873f2312f46fa451e2ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_10148b394e6bd5f6492509629551f574b9c28446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/032bc69e77c735d56d4c873f2312f46fa451e2ff/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4a27bf94f0b42f3a4d503e8c34ffc8456cb5dcdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_4ca888cd93f929e52e076310911920080268c137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a025f88fda7e2a19372c5d00730ff6c9fe3a7a92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_769710085270b6201ba30f825acdba8afc918ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_a7b77188dc4a4eb8a6b61a45a627361b1a077192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/18153bd6061736216339712c98b9d3d3242bddfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_dadc189e1119f63db3e07c8f3d914bd3501cda75.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_4bb29b70862e07a4c0c7aace47652727b223fdfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/build-tools/25.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/renderscript-v8_3f25ebd01aea3d3093e9b78fa7d0850d31f7e0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/18153bd6061736216339712c98b9d3d3242bddfc/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_079253ccc927c1f2777ee88cbe9c58fc33e73fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f1b00bf92efc3c05783f3b8e7d11341544a35685/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c5a3d7ac34fed652e332a7e62bcc6c6f018ea6d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Project_X/android/best/Krintos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ceabca91e7a6ee049d3342ae1ed278f42f41ec">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cc7a8b908c70f5efa25ab0c0160de3807a079638/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7e4a7f174bb9d8882eccbadefcd6a738b94964b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_af709ab8d54837d1f13ab43c9b2910e34273bb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/487984071a5847ee38749d843bee64bbdbffe3ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_36fac092e2e0b53b5e87ee4109de8bf96a08cf0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Project_X/android/best/Krintos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e964c018fc0243d2a1c1e76770bb9c05c3e6ae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/83cca9444b72558a23b1f381f37e9d691cb00df2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_dd474278f58f5decdaef7bcbcb28f866166eddf6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0933e84bb6ae46a5d44c01a91231016d785510c6">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4416f0275cdc596c2ea4941c69127a9a156ea6b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_e18101dc0d5fe0b14810449e9c489a128cdf2b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/junit-4.12_e18101dc0d5fe0b14810449e9c489a128cdf2b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_4bb29b70862e07a4c0c7aace47652727b223fdfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0933e84bb6ae46a5d44c01a91231016d785510c6">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_4416f0275cdc596c2ea4941c69127a9a156ea6b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.1/fc4723b92bc802625a05395d98ed4245e2d489b6/okhttp-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc4723b92bc802625a05395d98ed4245e2d489b6">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/okhttp-3.1.1_97d3e62e40145befbc2ba4af7191dcf91d5afafd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.1/fc4723b92bc802625a05395d98ed4245e2d489b6/okhttp-3.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc4723b92bc802625a05395d98ed4245e2d489b6">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.1_97d3e62e40145befbc2ba4af7191dcf91d5afafd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c385ce9a784d4ff6f096d2d642c40c585a583520/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_77868a108d6272c28cda156660f9a1fc0a9b8c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/29345d4407961d23a6afaf06fc204e95284cb499/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_3ef73833a79856c32571de39df2875a67435897f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7b2a7c234f282e7ae5c98e3de848fd9b51b0dc34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/classes_af8a03234b0bd926f0752d2a8a2757a7503b2d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7e4a7f174bb9d8882eccbadefcd6a738b94964b2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7c4f7c1593da039b38534123917ac7e6c5d39053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/29345d4407961d23a6afaf06fc204e95284cb499/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/root/Project_X/android/best/Krintos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8c10bd96592173584673ac8226e29e3d8da2100a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <group android:id="@+id/gorup_1">
+        <item android:id="@+id/nav_account"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/nav_account"/>
+    </group>
+
+    <group android:id="@+id/group_2">
+        <item android:id="@+id/nav_prog"
+            android:icon="@drawable/ic_devices_black_24dp"
+            android:title="@string/nav_prog"
+            />
+
+        <item android:id="@+id/nav_math"
+            android:icon="@drawable/ic_functions_black_24dp"
+            android:title="@string/nav_math"/>
+
+        <item android:id="@+id/nav_phys"
+            android:icon="@drawable/ic_multiline_chart_black_24dp"
+            android:title="@string/nav_phys"/>
+
+        <item android:id="@+id/nav_chem"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="@string/nav_chem"/>
+
+        <item android:id="@+id/nav_bio"
+            android:icon="@drawable/ic_opacity_black_24dp"
+            android:title="@string/nav_bio"/>
+
+        <item android:id="@+id/nav_phil"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="@string/nav_phil"/>
+    </group>
+
+    <group android:id="@+id/group_3">
+
+        <item android:id="@+id/nav_set"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/nav_set"/>
+
+        <item android:id="@+id/nav_ab"
+            android:icon="@drawable/ic_priority_high_black_24dp"
+            android:title="@string/nav_ab"/>
+
+        <item android:id="@+id/nav_log"
+            android:icon="@drawable/ic_keyboard_return_black_24dp"
+            android:title="@string/nav_log"/>
+
+    </group>
+
+</menu>

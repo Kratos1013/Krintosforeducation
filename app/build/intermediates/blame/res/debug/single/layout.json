@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_biology.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_biology.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_my_account.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_my_account.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_prog_activity.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_prog_activity.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_philology.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_philology.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/nav_action_bar.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/nav_action_bar.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_chemistry.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_chemistry.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_main_fragment.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_main_fragment.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/contant_main.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/contant_main.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_setting.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/nav_header.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/activity_file_picker.xml",
+        "source": "/root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/res/layout/activity_file_picker.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_physics.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_physics.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_about.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_math.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_math.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_directory.xml",
+        "source": "/root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/res/layout/fragment_directory.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fragment_edit_profile.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/item_file.xml",
+        "source": "/root/.android/build-cache/48702b92caff165a13ffdbd8cb3857c5fa343d3f/output/res/layout/item_file.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/example.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/example.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/fullimageview.xml",
+        "source": "/root/Project_X/android/best/Krintos/app/src/main/res/layout/fullimageview.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/root/.android/build-cache/7c7f4e1cf70e8492947992e07f32417bbb654fee/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/root/Project_X/android/best/Krintos/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/root/.android/build-cache/945b80c51ec562319fa5e8bf00be9cb22cba70d3/output/res/layout/design_text_input_password_icon.xml"
+    }
+]

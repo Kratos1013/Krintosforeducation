@@ -1,0 +1,85 @@
+<!--<FrameLayout android:id="@+id/fragment_math"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krintos.krintos.activity.Math"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+</FrameLayout>-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krintos.krintos.activity.Biology">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <TabHost
+            android:id="@+id/tabHost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/menu_button"></TabWidget>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ScrollView
+                        android:id="@+id/SOLUTIONS"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#ffc916"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/solutions" />
+
+                    </ScrollView>
+
+                    <ScrollView
+                        android:id="@+id/LIBRARY"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#da8200"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/library" />
+                    </ScrollView>
+
+                    <ScrollView
+                        android:id="@+id/INDEX"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#5b89ff"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/index" />
+                    </ScrollView>
+                </FrameLayout>
+            </LinearLayout>
+        </TabHost>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,320 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.krintos.krintos.activity.edit_profile">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1"
+            tools:ignore="UselessParent">
+
+            <ImageView
+                android:id="@+id/profile_pic"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:contentDescription="@string/profile"
+                app:srcCompat="@drawable/ic_photo_camera_black_24dp"
+                android:scaleType="center"
+
+                tools:ignore="ContentDescription" />
+            <TextView
+                android:id="@+id/tap_change"
+                android:text="@string/tap_change"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="@color/input_login_hint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/upload_image"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:background="@color/menu_button"
+                android:text="@string/uupload"
+                android:textSize="15sp"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:paddingBottom="5dp"
+                android:paddingLeft="15dp"
+                android:text="@string/username"
+                android:textColor="@color/input_login_hint"
+                tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+            <EditText
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:hint="@string/edit"
+                android:inputType="text"
+                android:paddingBottom="5dp"
+                android:textColor="@color/nav_header"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+            <View style="@style/Divider" />
+            <!--     <TextView
+                     android:id="@+id/info_name"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_marginTop="10dp"
+                     android:paddingBottom="5dp"
+                     android:paddingLeft="15dp"
+                     android:text="@string/nname"
+                     android:textColor="@color/input_login_hint"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <EditText
+                     android:id="@+id/name"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:background="@android:color/transparent"
+                     android:hint="@string/edit"
+                     android:inputType="text"
+                     android:paddingBottom="5dp"
+                     android:textColor="@color/nav_header"
+                     android:textSize="16sp"
+                     android:textStyle="bold"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <View style="@style/Divider" />
+                 <TextView
+                     android:id="@+id/info_lastname"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_marginTop="10dp"
+                     android:paddingBottom="5dp"
+                     android:paddingLeft="15dp"
+                     android:text="@string/lastname"
+                     android:textColor="@color/input_login_hint"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <EditText
+                     android:id="@+id/lastname"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:background="@android:color/transparent"
+                     android:hint="@string/edit"
+                     android:inputType="text"
+                     android:paddingBottom="5dp"
+                     android:textColor="@color/nav_header"
+                     android:textSize="16sp"
+                     android:textStyle="bold"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <View style="@style/Divider" /> -->
+
+
+
+            <TextView
+                android:id="@+id/phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:paddingBottom="5dp"
+                android:paddingLeft="15dp"
+                android:text="@string/phone"
+                android:textColor="@color/input_login_hint"
+                tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+            <TextView
+                android:id="@+id/phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:hint="@string/edit"
+                android:paddingBottom="5dp"
+                android:textColor="@color/nav_header"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+            <View style="@style/Divider" />
+
+            <!--     <TextView
+                     android:id="@+id/univer_info"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_marginTop="10dp"
+                     android:paddingBottom="5dp"
+                     android:paddingLeft="15dp"
+                     android:text="@string/university"
+                     android:textColor="@color/input_login_hint"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <EditText
+                     android:id="@+id/university"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:background="@android:color/transparent"
+                     android:hint="@string/edit"
+                     android:inputType="text|textCapCharacters|textCapWords"
+                     android:paddingBottom="5dp"
+                     android:textColor="@color/nav_header"
+                     android:textSize="16sp"
+                     android:textStyle="bold"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <View style="@style/Divider" />
+
+                 <TextView
+                     android:id="@+id/institute_info"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_marginTop="10dp"
+                     android:paddingBottom="5dp"
+                     android:paddingLeft="15dp"
+                     android:text="@string/institute"
+                     android:textColor="@color/input_login_hint"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <EditText
+                     android:id="@+id/institute"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:background="@android:color/transparent"
+                     android:hint="@string/edit"
+                     android:inputType="text"
+                     android:paddingBottom="5dp"
+                     android:textColor="@color/nav_header"
+                     android:textSize="16sp"
+                     android:textStyle="bold"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <View style="@style/Divider" />
+
+                 <TextView
+                     android:id="@+id/faculty_info"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_marginTop="10dp"
+                     android:paddingBottom="5dp"
+                     android:paddingLeft="15dp"
+                     android:text="@string/faculty"
+                     android:textColor="@color/input_login_hint"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <EditText
+                     android:id="@+id/faculty"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:background="@android:color/transparent"
+                     android:hint="@string/edit"
+                     android:inputType="text"
+                     android:paddingBottom="5dp"
+                     android:textColor="@color/nav_header"
+                     android:textSize="16sp"
+                     android:textStyle="bold"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <View style="@style/Divider" />
+
+                 <TextView
+                     android:id="@+id/about_me"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_marginTop="10dp"
+                     android:paddingBottom="5dp"
+                     android:paddingLeft="15dp"
+                     android:text="@string/about_me"
+                     android:textColor="@color/input_login_hint"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <EditText
+                     android:id="@+id/aboutme"
+                     android:layout_width="wrap_content"
+
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:background="@android:color/transparent"
+                     android:hint="@string/edit"
+                     android:inputType="text"
+                     android:paddingBottom="5dp"
+                     android:textColor="@color/nav_header"
+                     android:textSize="16sp"
+                     android:textStyle="bold"
+                     android:maxLines="99"
+                     tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+                 <View style="@style/Divider" /> -->
+
+
+            <LinearLayout
+                android:layout_gravity="center"
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/warning"
+                    android:textAlignment="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="15dp"
+                    android:text="@string/sorry_phone"
+                    android:textColor="@color/input_login_hint"
+                    tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+            </LinearLayout>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_margin="@dimen/fab_margin"
+        app:backgroundTint="@color/btn_logut_bg"
+        app:srcCompat="@drawable/ic_clear_black_24dp"
+        tools:ignore="RtlHardcoded" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+
+        app:srcCompat="@drawable/ic_check_black_24dp" />
+
+
+</FrameLayout>
